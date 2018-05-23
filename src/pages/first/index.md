@@ -1,7 +1,8 @@
 ---
-templateKey: 'about-page'
+templateKey: 'first-page'
 path: /first
 title: A simple page
+description: Just fooling around
 ---
 ### Markdown
 This is some static content.
